@@ -8,3 +8,8 @@ Running phpMyAdmin localy on the built in php server
 - In the root phpmyadmin directory run php -S localhost:8080
 - open in your browser: http://localhost:8080
 - log in by entering some valid credentials (a user you added or the root user)
+
+# Adminer
+```
+php -S localhost:8080 adminer.php
+```
